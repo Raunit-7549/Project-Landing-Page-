@@ -42,7 +42,7 @@ a {
 .imageplace {
     color: whitesmoke;
     display: flex;
-    padding: 102px;
+    padding: 150px 200px;
     background-color: grey;
     border: 0;
     text-wrap: nowrap;
@@ -57,9 +57,10 @@ button {
     font-weight: 700;
     padding: 5px 20px;
     border-radius: 7px;
-    height: 30px;
-    width: 100px;
+    height: 50px;
+    width: 150px;
     margin-top: 10px;
+    font-size: larger;
 }
  .top {
     display: flex;
@@ -120,7 +121,7 @@ button {
     display: flex;
     flex-direction: column;
     color: #1F2937;
-    padding: 50px;
+    padding: 150px;
     align-items: center;
 }
 
@@ -135,4 +136,28 @@ button {
     font-weight: 800;
     text-align: end;
     padding-left: 500px;
+}
+
+.container04{
+    background-color: #3882F6;
+    display: flex;
+    padding: 60px 150px;
+    margin: 100px 250px;
+    border-radius: 10px;
+    justify-content: space-between;
+    color: white;
+}
+
+.secondbutton {
+    border: 2px solid white;
+}
+
+.firsttext {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.secondtext {
+    font-size: large;
+    color: #E5E7EB;
 }
