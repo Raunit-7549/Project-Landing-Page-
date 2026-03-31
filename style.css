@@ -24,7 +24,7 @@ a {
 
 .headerlogo {
     font-size: 24px;
-    color: #f9faf8;
+    color: #F9FAF8;
 }
 
 .heading {
@@ -91,7 +91,7 @@ button {
     display: flex;
     flex-direction: column;
     gap: 25px;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
 }
 
 .box {
@@ -113,4 +113,26 @@ button {
     display: flex;
     justify-content: center;
     gap: 10px;
+}
+
+.container03 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    color: #1F2937;
+    padding: 50px;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px; 
+    font-style: italic;
+    font-weight: 300;
+}
+
+.name {
+    font-size: larger;
+    font-weight: 800;
+    text-align: end;
+    padding-left: 500px;
 }
