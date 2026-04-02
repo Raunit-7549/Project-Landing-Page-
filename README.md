@@ -14,7 +14,7 @@ A clean and modern landing page built using HTML and CSS. This project focuses o
 - Flexbox
 
 # Live Demo
-[Click here to view the landing page]( https://raunit-7549.github.io/Project-Landing-Page-/)
+[Click here to view the landing page](https://raunit-7549.github.io/landing-page/)
 
 # About
 This project was created as part of my web development learning journey to practice building webpage layouts and improving styling skills.
